@@ -1,0 +1,6 @@
+@NetMinimalAPI_HostAddress = http://localhost:5015
+
+GET {{NetMinimalAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
